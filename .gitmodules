@@ -1,0 +1,3 @@
+[submodule "compound-engineering-plugin"]
+	path = compound-engineering-plugin
+	url = https://github.com/EveryInc/compound-engineering-plugin.git
